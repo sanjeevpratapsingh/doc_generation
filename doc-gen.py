@@ -13,7 +13,7 @@ import re #For Removing Unwanted Special Characters
 #Create a template with atleast a words other it will give you an error "Package not found at docxtpl"
 document = DocxTemplate("template.docx")
 
-
+#Basic
 
 filepath = 'C:/projects/python/docs/docfiles/'
 
